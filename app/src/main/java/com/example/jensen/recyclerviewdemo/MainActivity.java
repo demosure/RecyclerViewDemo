@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private int lastVisibleItem = 0;
+    //haha
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
