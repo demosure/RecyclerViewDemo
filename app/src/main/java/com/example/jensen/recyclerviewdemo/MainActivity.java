@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private List<String> list;
     private MyAdapter mAdapter;
 
-    //hello
+
     private int lastVisibleItem = 0;
 
     @Override
